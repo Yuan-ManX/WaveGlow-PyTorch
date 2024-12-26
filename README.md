@@ -1,7 +1,7 @@
 # WaveGlow PyTorch
 
 <p align="center">
-  <img src="WaveGlow.png" alt="WaveGlow" style="display:block; margin:auto; width:480px;" />
+  <img src="WaveGlow.png" alt="WaveGlow" style="display:block; margin:auto; width:380px;" />
 </p>
 
 PyTorch implementation of WaveGlow.
